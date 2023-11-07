@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.acceptSuggestionOnCommitCharacter": true,
+        "editor.accessibilityPageSize": 29,
+        "editor.minimap.maxColumn": 120,
+        "editor.formatOnSave": true
+    },
+    "python.formatting.provider": "none"
+}
