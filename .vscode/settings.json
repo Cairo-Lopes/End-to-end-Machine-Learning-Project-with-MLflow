@@ -6,5 +6,4 @@
         "editor.minimap.maxColumn": 120,
         "editor.formatOnSave": true
     },
-    "python.formatting.provider": "none"
 }
