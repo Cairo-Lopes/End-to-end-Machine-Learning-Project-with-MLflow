@@ -6,4 +6,7 @@
         "editor.minimap.maxColumn": 120,
         "editor.formatOnSave": true
     },
+    "cSpell.words": [
+        "winequality"
+    ],
 }
